@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class EmpleadosComponent {
 name!:string;
+ciudad = ['Barcelona','Madrid','Colombia','Brazil']
 }

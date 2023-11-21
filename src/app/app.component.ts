@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AppAngular';
+  name!:string;
+ciudad = ['Barcelona','Madrid','Colombia','Brazil']
 }
